@@ -1,0 +1,28 @@
+name: JMStrategie
+favicon: null
+layout_spectrum: 0.23698014463298023
+typography_spectrum: 0.58033039374277
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.27563810837455094
+  lightness: 0.8544786893762648
+  saturation: 0.2948587678838521
+  rhythmicContrast: 0.30090514896437526
+purpose: []
